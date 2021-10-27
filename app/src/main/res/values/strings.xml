@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sign Up-in</string>
+    <string name="preference_file_key">com.example.Sign Up-in.PREFERENCE_FILE_KEY</string>
+</resources>
